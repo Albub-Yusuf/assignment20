@@ -91,7 +91,7 @@
 									);
 
 									if(res.status===200){
-										alert('login successful!');
+										alert('registration successful!');
 										window.location.href="/"
 									}
 								}catch(error){
